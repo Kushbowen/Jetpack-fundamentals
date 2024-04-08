@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bowen</string>
+    <string name="title_activity_layout">layoutActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_lottie">LottieActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_furniture">FurnitureActivity</string>
+    <string name="title_activity_furniture2">FurnitureActivity2</string>
+</resources>
